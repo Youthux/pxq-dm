@@ -3,7 +3,8 @@
 **已过同盾Blackbox, 内置代理IP。**
 
 - [最新版本下载地址](https://pxq.pxqdm666.top/%E7%A5%A8%E5%B8%AE%E5%B8%AEv3.zip)
-- [激活码购买地址](https://pxqdm666.top/)
+- [激活码购买地址](https://pxqdm666.top/), 虚拟物品一经售出，不支持退款。
+- 有任何问题请通过邮箱联系我， stefanli2577@gmail.com
 
 ## 更新日志:
  - 2024-04-10: 更新票星球协议版本, 优化程序, 完善激活功能。
