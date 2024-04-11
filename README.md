@@ -14,7 +14,7 @@
  - 2024-04-09: 支持自动设置代理IP
   
 ## 使用帮助
-**如果票星球登录需要图片验证码，账号已经是半黑的状态了。**
+**如果票星球登录需要图片验证码，账号已经是半黑的状态了。黑号是手动购买都提示网络访问错误，访问人数过多。**
 <h3><span class="md-plain" style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: 16px;">如何激活软件?</span></h3>
 <p><strong><span class="md-plain" style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: 16px;">1.点击去激活按钮, 会弹出激活窗口。</span></strong></p>
 <p><strong><span class="md-plain" style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: 16px;">2.输入您购买的激活码，如何点击激活按钮。如果激活码校验正确则会成功激活，显示到期时间。</span></strong></p>
