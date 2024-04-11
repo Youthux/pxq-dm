@@ -1,6 +1,7 @@
 # 票星球抢票/捡漏程序(协议)
 
-**已过同盾Blackbox, 内置代理IP。**
+
+**已过同盾Blackbox, 内置代理IP.**
 
 - [最新版本下载地址](https://pxq.pxqdm666.top/%E7%A5%A8%E5%B8%AE%E5%B8%AEv3.zip)
 - [激活码购买地址](https://pxqdm666.top/), 虚拟物品一经售出，不支持退款。
@@ -13,6 +14,7 @@
  - 2024-04-09: 支持自动设置代理IP
   
 ## 使用帮助
+**如果票星球登录需要图片验证码，账号已经是半黑的状态了。**
 <h3><span class="md-plain" style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: 16px;">如何激活软件?</span></h3>
 <p><strong><span class="md-plain" style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: 16px;">1.点击去激活按钮, 会弹出激活窗口。</span></strong></p>
 <p><strong><span class="md-plain" style="box-sizing: border-box; margin: 0px; padding: 0px; font-size: 16px;">2.输入您购买的激活码，如何点击激活按钮。如果激活码校验正确则会成功激活，显示到期时间。</span></strong></p>
