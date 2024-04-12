@@ -32,7 +32,7 @@ class PxqShowMonitor:
             'Terminal-Src': 'H5'
         })
         self.api_src = 'H5'
-        self.api_ver = "4.3.3-20240404095840"
+        self.api_ver = "4.3.5-20240408181716"
 
     def get_city_list(self):
         """
