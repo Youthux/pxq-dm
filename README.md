@@ -2,7 +2,7 @@
 
 **已过同盾Blackbox, 内置代理IP.**
 - [下载地址](https://pxq.pxqdm666.top/%E7%A5%A8%E5%B8%AE%E5%B8%AEV4.zip)
-- [激活码购买地址](https://pxqdm666.top/), 虚拟物品一经售出，不支持退款。
+- [激活码购买地址](https://pxqdm666.top/), 虚拟物品一经售出，不支持退款。  **激活码暂时下架，正在更新APP接口和开抢前验证码, 老用户到时请联系我补发激活码。**
 - 有任何问题可以联系我, 都会一一处理:
   - 电报: https://t.me/stefanli2577
   - 邮箱: stefanli2577@gmail.com
