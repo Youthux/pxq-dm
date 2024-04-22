@@ -8,8 +8,10 @@
  
 ## 正在更新, 更新完会发布, 比较忙, 消息回复不及时。
 
-![image](https://github.com/stefanli2577/pxq-dm/assets/163996174/64b35d3a-86ca-4b95-a5e6-6ca2af4fea68)
-![image](https://github.com/stefanli2577/pxq-dm/assets/163996174/78900d9c-4846-4189-947e-6d614be6f747)
+![image](https://github.com/stefanli2577/pxq-dm/assets/163996174/20cd5cea-6c23-4c80-a526-5b5d33621eb5)
+![image](https://github.com/stefanli2577/pxq-dm/assets/163996174/57a993b7-6f24-4784-a239-983ac718e609)
+![Uploading image.png…]()
+
 
  
 ## 温馨提示
