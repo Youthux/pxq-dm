@@ -11,6 +11,10 @@
 ![image](https://github.com/stefanli2577/pxq-dm/assets/163996174/20cd5cea-6c23-4c80-a526-5b5d33621eb5)
 ![image](https://github.com/stefanli2577/pxq-dm/assets/163996174/57a993b7-6f24-4784-a239-983ac718e609)
 ![image](https://github.com/stefanli2577/pxq-dm/assets/163996174/5a41bd8f-a000-49ed-aa8a-ea83d89f3f0d)
+![image](https://github.com/stefanli2577/pxq-dm/assets/163996174/a4b79ab9-b72e-4017-8134-ad87bca1d61f)
+
+![image](https://github.com/stefanli2577/pxq-dm/assets/163996174/f83649cd-20c1-44a5-831a-a5fffe24e059)
+
 
 ![image](https://github.com/stefanli2577/pxq-dm/assets/163996174/08345a47-aebc-4b62-8679-b0195279e31f)
 
