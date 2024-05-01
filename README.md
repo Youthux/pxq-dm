@@ -15,9 +15,11 @@
 ![image](https://github.com/stefanli2577/pxq-dm/assets/163996174/507f8e33-2efb-4b8d-aab2-b088a7304294)
 
 
+2. 复制代理鉴权用户名和密码:
+![image](https://github.com/stefanli2577/pxq-dm/assets/163996174/ebb4da09-9742-462a-b2d2-97d92929c6d7)
 
 
-4. 软件设置:
+3. 填写到软件的代理设置:
 ![image](https://github.com/stefanli2577/pxq-dm/assets/163996174/befbb304-dd56-401f-bca9-cf171bce8605)
 
 
