@@ -17,6 +17,11 @@
 3. 点击请选择, 输入关键词搜索演出:
 ![image](https://github.com/stefanli2577/pxq-dm/assets/163996174/ca6872e1-ca57-4dc9-899a-fe82b174a10b)
 
+4. 在搜索结果中选择你要购买的演出:
+
+![image](https://github.com/stefanli2577/pxq-dm/assets/163996174/17c7e499-ea8f-4b63-aee3-b138ee1eb4a2)
+
+
 
 
 ## 更新日志:
