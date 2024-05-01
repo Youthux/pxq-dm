@@ -6,9 +6,9 @@
 
  ## 下载地址:
 
-Mac版本:   [pbb_0.1.0_aarch64.dmg](https://pxq.pxqdm666.top/pbb_0.1.0_aarch64.dmg), [pbb_aarch64.app.tar.gz](https://pxq.pxqdm666.top/pbb_aarch64.app.tar.gz)
-Win版本:  [pbb_0.1.0_x64_zh-CN.msi](https://pxq.pxqdm666.top/pbb_0.1.0_x64_zh-CN.msi), [pbb_0.1.0_x64-setup.exe](https://pxq.pxqdm666.top/pbb_0.1.0_x64-setup.exe)
-Linux版本: [pbb_0.1.0_amd64.AppImage](https://pxq.pxqdm666.top/pbb_0.1.0_amd64.AppImage), [pbb_0.1.0_amd64.deb](https://pxq.pxqdm666.top/pbb_0.1.0_amd64.deb)
+- Mac版本:   [pbb_0.1.0_aarch64.dmg](https://pxq.pxqdm666.top/pbb_0.1.0_aarch64.dmg), [pbb_aarch64.app.tar.gz](https://pxq.pxqdm666.top/pbb_aarch64.app.tar.gz)
+- Win版本:  [pbb_0.1.0_x64_zh-CN.msi](https://pxq.pxqdm666.top/pbb_0.1.0_x64_zh-CN.msi), [pbb_0.1.0_x64-setup.exe](https://pxq.pxqdm666.top/pbb_0.1.0_x64-setup.exe)
+- Linux版本: [pbb_0.1.0_amd64.AppImage](https://pxq.pxqdm666.top/pbb_0.1.0_amd64.AppImage), [pbb_0.1.0_amd64.deb](https://pxq.pxqdm666.top/pbb_0.1.0_amd64.deb)
 
 ## 使用教程
 ### 代理设置（可选）
