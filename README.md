@@ -14,7 +14,8 @@
 - 账号密码点击[首选地址](https://pxqdm666.top/), [备用地址1](https://jhm.nodonodie666.top/),[备用地址2](https://pxq.nodonodie666.top/)获取!
 
 ## 使用教程
-### 代理设置（可选）
+### 代理设置（可选, 用不用都行, 看需求, 如果需要建议买1分钟的IP）
+![image](https://github.com/stefanli2577/pxq-dm/assets/163996174/0933957a-7fa0-4102-8237-ea88b82e2025)
 
 使用[快代理](https://www.kuaidaili.com/?ref=inilxfs4qx5b)的私密代理为例, 使用其他的代理商也是一样的,
 
