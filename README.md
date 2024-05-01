@@ -3,7 +3,12 @@
 - 有任何问题可以联系我, 都会一一处理:
   - 电报: https://t.me/stefanli2577
   - 邮箱: stefanli2577@gmail.com
- 
+
+ ## 下载地址:
+
+Mac版本:   [pbb_0.1.0_aarch64.dmg](https://pxq.pxqdm666.top/pbb_0.1.0_aarch64.dmg), [pbb_aarch64.app.tar.gz](https://pxq.pxqdm666.top/pbb_aarch64.app.tar.gz)
+Win版本:  [pbb_0.1.0_x64_zh-CN.msi](https://pxq.pxqdm666.top/pbb_0.1.0_x64_zh-CN.msi), [pbb_0.1.0_x64-setup.exe](https://pxq.pxqdm666.top/pbb_0.1.0_x64-setup.exe)
+Linux版本: [pbb_0.1.0_amd64.AppImage](https://pxq.pxqdm666.top/pbb_0.1.0_amd64.AppImage), [pbb_0.1.0_amd64.deb](https://pxq.pxqdm666.top/pbb_0.1.0_amd64.deb)
 
 ## 使用教程
 ### 代理设置（可选）
