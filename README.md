@@ -21,6 +21,15 @@
 
 ![image](https://github.com/stefanli2577/pxq-dm/assets/163996174/17c7e499-ea8f-4b63-aee3-b138ee1eb4a2)
 
+5. 然后选择场次, 票档, 观演人, 收货地址(纸质票才会出现该选项), 捡漏模式, 是否发送通知, 是否使用代理!
+
+  ![image](https://github.com/stefanli2577/pxq-dm/assets/163996174/e7cb92b3-1786-4256-9077-c533aa54b487)
+
+6. 点击运行即可。
+
+![image](https://github.com/stefanli2577/pxq-dm/assets/163996174/37dc35b8-43f1-46d5-9db5-704e7a7e1a8b)
+
+
 
 
 
