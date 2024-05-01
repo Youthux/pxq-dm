@@ -10,6 +10,10 @@
 1. 使用账号密码登录软件(账号密码点击[首选地址](https://pxqdm666.top/), [备用地址1](https://jhm.nodonodie666.top/),[备用地址2](https://pxq.nodonodie666.top/)获取!):  
 ![image](https://github.com/stefanli2577/pxq-dm/assets/163996174/40f90480-1dfb-43c8-8ee4-b8abe7789bc8)
 
+2. 点击登录账号按钮, 在弹出的短信登录框中使用短信登录票星球账号:
+
+![image](https://github.com/stefanli2577/pxq-dm/assets/163996174/15ab4dfe-cb88-4df0-970f-6f9a113669d8)
+
 
 ## 更新日志:
 - 2024-05-01:  v0.1.0:  开抢前1分钟验证码未解决, 将在下一个版本解决！有开抢前1分钟验证码的演出会盾, 无开抢前1分钟验证码的演出不会被盾, 支持多种模式捡漏(指定场次+指定票档, 指定场次+全票档, 全场次+全票档)24小时稳定运行! 支持代理IP。
