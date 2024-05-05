@@ -20,10 +20,12 @@
 
  ## 下载地址:
 
-- Mac(M1芯片)版本:   [pbb_0.1.0_aarch64.dmg](https://pxq.pxqdm666.top/pbb_0.1.0_aarch64.dmg), [pbb_aarch64.app.tar.gz](https://pxq.pxqdm666.top/pbb_aarch64.app.tar.gz)
-- Mac(Intel)版本:   [pbb_0.1.0_x64.dmg](https://pxq.pxqdm666.top/pbb_0.1.0_x64.dmg), [pbb_x64.app.tar.gz](https://pxq.pxqdm666.top/pbb_x64.app.tar.gz)
-- Win版本:  [pbb_0.1.0_x64_zh-CN.msi](https://pxq.pxqdm666.top/pbb_0.1.0_x64_zh-CN.msi), [pbb_0.1.0_x64-setup.exe](https://pxq.pxqdm666.top/pbb_0.1.0_x64-setup.exe)
-- Linux版本: [pbb_0.1.0_amd64.AppImage](https://pxq.pxqdm666.top/pbb_0.1.0_amd64.AppImage), [pbb_0.1.0_amd64.deb](https://pxq.pxqdm666.top/pbb_0.1.0_amd64.deb)
+[文件下载地址](https://pxq.pxqdm666.top/)
+
+- Mac(M1芯片)版本:   下载文件名带aarch64的app或dmg文件。
+- Mac(Intel)版本:   x64的dmg或者app文件。
+- Win版本:  下载msi或者exe文件。
+- Linux版本: 下载.AppImage或.deb文件。
 - 账号密码点击[首选地址](https://pxqdm666.top/), [备用地址1](https://jhm.nodonodie666.top/),[备用地址2](https://pxq.nodonodie666.top/)获取!
 
 ## 使用教程
