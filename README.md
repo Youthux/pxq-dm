@@ -20,7 +20,7 @@
 
  ## 软件下载地址:
 
-[软件下载地址点我](https://pxq.pxqdm666.top/)
+[软件下载地址点我](https://pxq.pxqdm666.top/), 最新版本v0.1.1: 修复一些问题, 添加pushplus通知。
 
 - Mac(M1芯片)版本:   下载文件名带aarch64的app或dmg文件。
 - Mac(Intel)版本:   x64的dmg或者app文件。
