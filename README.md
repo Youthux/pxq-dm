@@ -10,6 +10,14 @@
   - 电报: https://t.me/stefanli2577
   - 邮箱: stefanli2577@gmail.com
 
+## 待做功能列表 
+- 观演人管理
+- 支持账号多开
+- 支持开抢验证码
+- 支持软件自动更新
+- 支持钉钉/pushplus通知 
+
+
  ## 下载地址:
 
 - Mac(M1芯片)版本:   [pbb_0.1.0_aarch64.dmg](https://pxq.pxqdm666.top/pbb_0.1.0_aarch64.dmg), [pbb_aarch64.app.tar.gz](https://pxq.pxqdm666.top/pbb_aarch64.app.tar.gz)
