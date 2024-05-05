@@ -18,9 +18,9 @@
 - 支持钉钉/pushplus通知 
 
 
- ## 下载地址:
+ ## 软件下载地址:
 
-[文件下载地址](https://pxq.pxqdm666.top/)
+[软件下载地址点我](https://pxq.pxqdm666.top/)
 
 - Mac(M1芯片)版本:   下载文件名带aarch64的app或dmg文件。
 - Mac(Intel)版本:   x64的dmg或者app文件。
